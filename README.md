@@ -1,63 +1,150 @@
-<h3 align="center">
-  
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-  
-  Welcome I'm Saravana Kumar !
-  
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
+![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=sic+parvis+magna)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=thesaravanakumar&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
-
-  </h3>
-  <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-Hey! I'm a 21-year-old software engineer working out of Tamil Nadu, India. Check out some of my Spotify 
-<a href="https://open.spotify.com/user/4ycd6kmdj6we6n7dbj9aw2r3e">
-  <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> playlists if you ❤ listening to music while you code.
-
-Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
-
-Love to do some contests on <es><strong><a href = "https://www.codechef.com/users/saravana_me">codechef </a></strong></es> and <es><strong><a href = "https://codeforces.com/profile/VictorSullivan">codeforces </a></strong></es> and to create <es><strong><a href = "https://thesaravanakumar.itch.io/">games.</a></strong></es>
-Although I have a Computer Engineering background, Google and Stack Overflow deserve the most of the credit.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" alt="cpp" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="visualstudio" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png" alt="csharp" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426759-a687aa90-d647-46c9-86f7-c8e948f8095e.png" alt="python" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426152-a3fa615d-646a-41ad-b40d-668f7317b1d0.png" alt="go" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" alt="java" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="html5" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="css3" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" alt="react" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428631-5ab21a62-ac89-4919-9408-724df88ab245.png" alt="nodejs" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426153-6f6d6c91-9778-43d9-a1df-95df61f23438.png" alt="mongodb" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427343-2fe8d36c-c633-4ed2-92a2-122f08d7328b.png" alt="kotlin" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="git" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427977-74d3fe09-d1c3-447a-9446-b28aae6df5cb.png" alt="ubuntu" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
+<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=thesaravanakumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/thesaravanakumar"><img alt="Saravana Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesaravanakumar&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
+<br>
 
-------
-Credit: [thesaravanakumar](https://github.com/thesaravanakumar)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-Last Edited on: 27/10/2021
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **UA IT(JKH IT)**
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
+
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
+
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Achievements:</h3>
+
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
