@@ -60,7 +60,7 @@
 - Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs,rabbit,csharp" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
@@ -78,10 +78,10 @@
   </a>
 </p>
 
-- Testing and Automation
+- Automation
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mockito,junit,jenkins" />
+    <img src="https://skillicons.dev/icons?i=jenkins" />
 </a>
 </p>
 
