@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Alex Hernández Navarro</h1>
+<h1 align="center">Hi 👋, Me Nomcro Alex Hernández Navarro</h1>
 <h3 align="center">Back-End Software Developer</h3>
 <p align="center">
- Conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps 💻, Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 - Información Seguridad, Ciberseguridad y Protección de la Privacidad, Especialista en Ciberseguridad y Ethical Hacking. 🛠️</p>
+ Tengo conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps 💻, Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 - Información Seguridad, Ciberseguridad y Protección de la Privacidad, Especialista en Ciberseguridad y Ethical Hacking. 🛠️</p>
 
 
 <div align="center">
@@ -38,11 +38,11 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alex-hern%C3%A1ndez-navarro%E2%9C%85-664865127?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7Boci6qSTZmUEkZjH0jIGg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alex.hernandez0622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/a_hernandez0622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@alexanderhernandeznavarro9465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
+ <a href="https://www.youtube.com/@alexanderhernandeznavarro9465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
 </p>
 <br>
 
