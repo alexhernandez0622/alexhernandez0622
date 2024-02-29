@@ -1,4 +1,3 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
 <img align="left" src="https://media.licdn.com/dms/image/D4E16AQFj9KFykSxvPw/profile-displaybackgroundimage-shrink_350_1400/0/1708550427483?e=1714608000&v=beta&t=GfLbeDmrengJV0Kplpe5yQwvn28_TpUe5_xDm7KIUHQ" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, Alex Hernández Navarro</h1>
