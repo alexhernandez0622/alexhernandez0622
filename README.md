@@ -1,5 +1,5 @@
 ![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
-<img align="left" src="https://media.licdn.com/dms/image/D4E16AQFj9KFykSxvPw/profile-displaybackgroundimage-shrink_350_1400/0/1708550427483?e=1714608000&v=beta&t=GfLbeDmrengJV0Kplpe5yQwvn28_TpUe5_xDm7KIUHQ" width="21%" style="display:inline;"><img align="right" src="[https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif](https://media.licdn.com/dms/image/D4E16AQFj9KFykSxvPw/profile-displaybackgroundimage-shrink_350_1400/0/1708550427483?e=1714608000&v=beta&t=GfLbeDmrengJV0Kplpe5yQwvn28_TpUe5_xDm7KIUHQ)" width="21%" style="display:inline;">
+<img align="left" src="https://media.licdn.com/dms/image/D4E16AQFj9KFykSxvPw/profile-displaybackgroundimage-shrink_350_1400/0/1708550427483?e=1714608000&v=beta&t=GfLbeDmrengJV0Kplpe5yQwvn28_TpUe5_xDm7KIUHQ" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, Alex Hernández Navarro</h1>
 <h3 align="center">Back-End Software Developer</h3>
