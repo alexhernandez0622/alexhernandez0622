@@ -1,14 +1,8 @@
-<img align="left" src="https://media.licdn.com/dms/image/D4E16AQFj9KFykSxvPw/profile-displaybackgroundimage-shrink_350_1400/0/1708550427483?e=1714608000&v=beta&t=GfLbeDmrengJV0Kplpe5yQwvn28_TpUe5_xDm7KIUHQ" width="21%" style="display:inline;">
-
 <h1 align="center">Hi 👋, Alex Hernández Navarro</h1>
 <h3 align="center">Back-End Software Developer</h3>
 <p align="center">
  Conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps 💻, Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 - Información Seguridad, Ciberseguridad y Protección de la Privacidad, Especialista en Ciberseguridad y Ethical Hacking. 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
-</p>
+
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -60,7 +54,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:/h3>
 
 - Backend
 <p align="left">
