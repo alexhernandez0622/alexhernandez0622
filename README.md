@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Me Nomnro Alex Hernández Navarro</h1>
+<h1 align="center">Hi 👋,  Alex Hernández Navarro</h1>
 <h3 align="center">Back-End Software Developer</h3>
 <p align="center">
- Tengo conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps 💻, Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 - Información Seguridad, Ciberseguridad y Protección de la Privacidad, Especialista en Ciberseguridad y Ethical Hacking. 🛠️</p>
+ Conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps 💻, Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 - Información Seguridad, Ciberseguridad y Protección de la Privacidad, Especialista en Ciberseguridad y Ethical Hacking. 🛠️</p>
 
 
 <div align="center">
@@ -27,9 +27,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 Actualmente estoy trabajando en **BIT**
+- 🌐  **Ingeniero de Sistemas**,
 
-- 🌱 Actualmente estoy aprendiendo **DevOps**
+- 💻  **Especialista en Ciberseguridad**,
+  
+- 🔐  **Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 Información Seguridad, Ciberseguridad y Protección de la Privacidad**,
+
+- 👨🏼‍💻  **Ethical Hacke®**,
+  
+- 🔭 Actualmente estoy trabajando en **BIT y Universidad Sergio Arboleda**
+
+- 📱  Estoy estudiando **Máster Universitario en DevOps**
 
 - 💬 Pregúntame sobre **Java, JS, AngularJS, ReactJS y SpringBoot**
 
