@@ -60,7 +60,7 @@
 - Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs,rabbit,csharp" />
   </a>
 </p>
 
@@ -76,6 +76,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
+</p>
+
+- Testing and Automation
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mockito,junit,jenkins" />
+</a>
 </p>
 
 - Cloud Servers
