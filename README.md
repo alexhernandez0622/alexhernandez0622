@@ -1,5 +1,6 @@
 <h1 align="center">Hola, es un placer presentarme 👋🏼</h1>
-<h3 align="center">Back-End Software Developer</h3>
+<h3 align="center">Back-End Software Developer👨🏼‍💻
+</h3>
 <p align="center">
  Conocimientos e interés por el área de Ingeniería de Sistemas y Programación  🌐 con una sólida experiencia de más de 6 años en una variedad de tecnologías y herramientas, como HTML5, CSS3, Bootstrap, Tailwind, Ajax, PHP, MySQL, MongoDB, PostgreSQL, SQL Server, Firebase, TypeScript, Java, Jira, JavaScript, Python, AngularJS, Spring Boot, C#, ReactJS, NextJS, NodeJS, VueJS, Docker, Kubernetes, Postman, API REST, Hoppscotch, OrbStack, Kotlin, JUnit, Mockito, Google Cloud Platform, Microsoft Azure Cloud, Netifly, Heroku, Android Studio, Flutter, Git, y GitHub, Metodologías Ágiles Scrum y DevOps. 💻🛠️</p>
 
