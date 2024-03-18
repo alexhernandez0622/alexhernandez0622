@@ -97,7 +97,7 @@ Me nombro Alex Hernández , cuento con conocimientos e interés por el área de 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,kali,maven.discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,kali,maven,discord,linkedin" />
   </a>
 </p>
 
