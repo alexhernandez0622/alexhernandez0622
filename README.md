@@ -37,7 +37,7 @@ Me nombro Alex Hernández , cuento con conocimientos e interés por el área de 
 
 - 👨🏼‍💻  **Ethical Hacke®**
   
-- 🔭 Laboro en **BIT y Universidad Sergio Arboleda**
+- 🔭 Laboro en **Indra y Tecnalia Colombia**
 
 - 📱  Estoy estudiando **Máster Universitario en DevOps**
 
