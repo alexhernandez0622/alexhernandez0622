@@ -37,7 +37,7 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 
 - 👨🏼‍💻  **Ethical Hacke®**
   
-- 🔭 Laboro en **Indra y Tecnalia Colombia**
+- 🔭 Laboro en **Indra, Tecnalia Colombia y MENTORTIC EdTech**
 
 - 📱  Estoy estudiando **Máster Universitario en DevOps**
 
