@@ -36,10 +36,16 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 - 🔐  **Auditor Interno en ISO/IEC 27001:2022 - Sistemas de Gestión de la Seguridad de la Información y en la ISO/IEC 27005:2022 Información Seguridad, Ciberseguridad y Protección de la Privacidad**
 
 - 👨🏼‍💻  **Ethical Hacke®**
-  
-- 🔭 Laboro en **Indra Colombia y MENTORTIC EdTech**
+
+- 👨🏼‍💻 **Máster en en APIs RESTful con NodeJS** 
+
+- 👨🏼‍💻 **Máster en Microservicios con Spring Boot y Spring Cloud**
+
+- 👨🏼‍💻 **Máster en Programación de Videojuegos con Unity® y C#**
 
 - 📱  Estoy estudiando **Máster Universitario en DevOps**
+  
+- 🔭 Laboro en **Indra Colombia y MENTORTIC EdTech**
 
 - 💬 Pregúntame sobre **Java, JS, AngularJS, ReactJS y SpringBoot**
 
