@@ -45,7 +45,7 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 
 - 📱  Estoy estudiando **Máster Universitario en DevOps**
   
-- 🔭 Laboro en **Indra Colombia y MENTORTIC EdTech**
+- 🔭 Laboro en **Indra**
 
 - 💬 Pregúntame sobre **Java, JS, AngularJS, ReactJS y SpringBoot**
 
