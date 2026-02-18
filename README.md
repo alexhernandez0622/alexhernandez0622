@@ -103,7 +103,7 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,kali,maven,discord,linkedin,grafana,kali,linux,powershell,windows,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,kali,maven,discord,linkedin,grafana,kali,linux,powershell,windows,visualstudio,vercel" />
   </a>
 </p>
 
