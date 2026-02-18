@@ -82,7 +82,7 @@ Me nombro Alexander Fabián Hernández Navarro , cuento con conocimientos e inte
 - Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
   </a>
 </p>
 
